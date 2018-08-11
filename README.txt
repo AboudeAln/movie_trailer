@@ -31,5 +31,5 @@ The project conisits of 3 files:
 
 HOW TO DOWNLOAD
 
-Download and unzip the project: 
+Download and unzip the project: git@github.com:AboudeAln/movie_trailer.git
 
